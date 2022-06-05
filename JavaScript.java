@@ -9,5 +9,6 @@
 public class JavaScript {
 	public static void main(String[] args){
 		System.out.println("JavaScript ");
+		System.out.println("Second Output Statement !");
 	}
 }
